@@ -1,4 +1,4 @@
-# Electricity Load Forecasting — Research Project
+# Electricity Demand Forecasting — Research Project
 
 ## Overview
 
