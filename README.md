@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project implements a comprehensive **electricity load forecasting** system using the [Open Power System Data (OPSD)](https://data.open-power-system-data.org/time_series/2020-10-06) time series dataset. It compares 6 different models ranging from simple statistical baselines to state-of-the-art deep learning architectures for **24-hour ahead** load prediction of Germany's electricity demand.
+This project implements a comprehensive **electricity demand forecasting** system using the [Open Power System Data (OPSD)](https://data.open-power-system-data.org/time_series/2020-10-06) time series dataset. It compares 6 different models ranging from simple statistical baselines to state-of-the-art deep learning architectures for **24-hour ahead** load prediction of Germany's electricity demand.
 
 ## Dataset
 
